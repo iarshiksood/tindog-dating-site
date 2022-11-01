@@ -1,2 +1,1 @@
-# tindog-dating-site
-responsive website using bootstrap
+TinDog Starting Files
